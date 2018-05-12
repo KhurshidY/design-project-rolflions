@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body class="regbody">
+<body>
 <nav>
     <div class="container">
         <div class="row">
@@ -40,30 +40,52 @@
 <main>
     <div class="container">
         <div class="row top ">
-            <div class="col-md-3"></div>
-            <div class="col-md-5 Javlon">
+            <div class="col-md-3">
+                <form action="" class="Javlon">
+                    <br>
+                    <label style="color:darkblue">Box1 booked</label><br>
+                    <label style="color:darkblue">Box3 free</label><br>
+                    <label style="color:darkblue">Box5 booked</label><br>
+                    <label style="color:darkblue">Box7 free</label><br>
+                    <label style="color:darkblue">Box9 booked</label><br>
+                </form>
+            </div>
+            <div class="col-md-6 Javlon">
                 <div class="well img-responsive">
                     <form action="" class="Javlon">
-                        <label for="fname">Login</label>
-                        <input type="text" id="fname" name="firstname" placeholder="login"><br>
+                        <label class="alert-danger" for="fname">Important note!!</label>
+                        <label for="fname">Please fill the boxes and get your numer for car washing service queue. By this number you will be allowed to come in</label>
 
-                        <label for="lname">Password</label>
-                        <input type="password" id="lname" name="lastname" placeholder="password"><br>
+                        <input type="text" id="lnamys" name="lastname" placeholder="Your name"><br>
+                        <input type="text" id="lnamep" name="lastname" placeholder="Phone number"><br>
+                        <input type="text" id="lnamec" name="lastname" placeholder="Car number"><br>
+                        <input type="text" id="fname" name="firstname" placeholder="type of car"><br>
+                        <input type="text" id="lnamex" name="lastname" placeholder="today or tomorrow"><br>
+                        <input type="text" id="lnamed" name="lastname" placeholder="time"><br>
 
-                        <label for="names">Remember me?</label>
-                        <input type="checkbox" id="names" name="lastname">
+                        <label class="alert-danger" for="fname">I don't mind if guys drive my car for drying</label><br>
+                        <input type="checkbox">Yes
+                        <input type="checkbox">No
 
-                        <label  for="names" style="padding-left: 130px;"><a style="color: darkred" href="registration.html">New Account</a></label>
 
                         <input type="submit" value="Submit">
                     </form>
                 </div>
             </div>
+            <div class="col-md-3">
+                <form action="" class="Javlon">
+                    <br>
+                    <label style="color:darkblue">Box2 free</label><br>
+                    <label style="color:darkblue">Box4 booked</label><br>
+                    <label style="color:darkblue">Box6 free</label><br>
+                    <label style="color:darkblue">Box8 booked</label><br>
+                    <label style="color:darkblue">Box10 free</label><br>
+                </form>
+            </div>
 
         </div>
     </div>
 </main>
-<br><br>
 <footer>
     <div class="container">
         <div class="row">
@@ -83,6 +105,7 @@
         </div>
     </div>
 </footer>
+
 </body>
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>

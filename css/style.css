@@ -41,13 +41,11 @@ header * hr
 /*navigation bar style begins*/
 .menuu
 {
-    position: fixed;
+
 }
 nav
 {
     background-color: #DBDBDB;
-    position: fixed;
-    z-index:9999;
     width: 100%;
 }
 nav * ul{
