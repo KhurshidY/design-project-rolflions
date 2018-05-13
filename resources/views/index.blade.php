@@ -13,9 +13,8 @@
         <div class="row ">
             <div class="col-md-8">
                 <div class="pull-left">
-                    
-                    <a href="/" style="text-decoration: none;"><h4><i class="fa fa-car"></i> AutoShop.uz <i class="fa fa-shopping-cart "></i></h4></a>
-                    <small> Yul qoydasi umr foydasi</small>
+                    <h4><i class="fa fa-car"></i> AutoShop.uz <i class="fa fa-shopping-cart "></i></h4>
+                    <small> Please, be careful on the road!</small>
                     <hr>
                     <div class="clearfix"></div>
                     <p>Real Uzb Cars Zone - <i>Just make a Long Drift With us</i></p>
@@ -54,7 +53,7 @@
         <div class="row">
             <div class="col-md-12 ">
                 <ul class="list-inline list-unstyled">
-                    <li><a href="/">Home</a></li>
+                      <li><a href="/">Home</a></li>
                     <li><a href="/Gallery">Gallery</a></li>
                     <li><a href="/statistika">GM Statistics</a></li>
                     <li><a href="/Arenda">Hire</a></li>
@@ -142,11 +141,12 @@
                     </div>
                 </div>
                 <div class="col-lg-4"><p>Wheels<span class="badge">9</span></p></div>
-                <div class="col-lg-4" style="text-decoration: underline; color: #1b6d85;"><p>Needs<span class="badge">20</span>Car wash servise<span class="badge">15</span></p></div>
+                <div class="col-lg-4" style="text-decoration: underline; color: #1b6d85;"><p>Needs<span class="badge">20</span>  Service<span class="badge">15</span></p></div>
                 <div class="col-lg-4" style="text-decoration: underline; color: #1b6d85;"><p>Tesla<span class="badge">6</span></p></div>
 
-                <div class="row">
-                    </div>
+                <div class="row announcement">
+                       <h2>Announcement!</h2>
+                    <img  src="image/shimkent.jpg"/></div>
                 </div>
             </div>
         </div>
@@ -161,7 +161,7 @@
                 </div>
                 <div class="pull-left speciall">
                     <h3>AutoShop.uz<i class="fa fa-car"></i></h3>
-                    <small> Yul qoydasi umr foydasi</small>
+                    <small> Please, be careful on the road!</small>
                     <hr>
                     <p>Real Uzb Cars Zone - <i>Just make a Long Drift With us</i></p>
                 </div>
