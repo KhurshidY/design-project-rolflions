@@ -39,7 +39,7 @@
                         <li>Administrator <span>(97) 690-83-10</span></li>
                     </ul>
                     <ul class="list-unstyled list-inline">
-                        <li><a href="reg1.html" class="btn btn-link"><i class="fa fa-edit fa-fw"></i>Registration</a></li>
+                        <li><a href="/register" class="btn btn-link"><i class="fa fa-edit fa-fw"></i>Registration</a></li>
                         <li><a href="#" class="btn btn-link"><i class="fa fa-info fa-fw"></i>How to buy?</a></li>
                     </ul>
                     <a href="#" class="btn btn-link"><i class="fa fa-telegram fa-fw"></i>Telegram messenjeridagi guruhimiz</a>

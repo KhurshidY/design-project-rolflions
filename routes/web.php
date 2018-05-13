@@ -41,3 +41,13 @@ Route::get('/registration', function () {
 Route::get('/statistika', function () {
     return view('statistika');
 });
+Route::get('/register', function () {
+    return view('register');
+});
+
+
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
