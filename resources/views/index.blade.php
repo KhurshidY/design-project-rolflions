@@ -48,10 +48,10 @@
         </div>
     </div>
 </header>
-<nav class="navbar-expand-sm sticky-top">
+<nav>
     <div class="container">
         <div class="row">
-            <div class="col-md-12 ">
+            <div class="col-lg-12 ">
                 <ul class="list-inline list-unstyled">
                       <li><a href="/">Home</a></li>
                     <li><a href="/Gallery">Gallery</a></li>
@@ -59,7 +59,7 @@
                     <li><a href="/Arenda">Hire</a></li>
                     <li><a href="#">Map</a></li>
                     <li><a href="#">Country</a></li>
-                    <li><a href="/carwash">Car wash service</a></li>
+                    <li><a href="#">Questions?</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             Contact <i class="fa fa-caret-down"></i>

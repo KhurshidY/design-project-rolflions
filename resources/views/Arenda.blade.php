@@ -19,7 +19,11 @@
                     <li><a href="/Arenda">Hire</a></li>
                     <li><a href="#">Map</a></li>
                     <li><a href="#">Country</a></li>
+<<<<<<< HEAD:resources/views/Arenda.blade.php
                     <li><a href="/carwash">Car wash service</a></li>
+=======
+                    <li><a href="#">Questions</a></li>
+>>>>>>> 931d1020b45d09c63d7efc6ff1b1022312a233f1:Arenda.html
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             Contact <i class="fa fa-caret-down"></i>
