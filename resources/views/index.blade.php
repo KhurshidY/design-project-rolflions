@@ -13,7 +13,7 @@
         <div class="row ">
             <div class="col-md-8">
                 <div class="pull-left">
-                    <h4><i class="fa fa-car"></i> AutoShop.uz <i class="fa fa-shopping-cart "></i></h4>
+                     <a href="/" style="text-decoration: none;"><h4><i class="fa fa-car"></i> AutoShop.uz <i class="fa fa-shopping-cart "></i></h4></a>
                     <small> Please, be careful on the road!</small>
                     <hr>
                     <div class="clearfix"></div>

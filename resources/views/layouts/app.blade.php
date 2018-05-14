@@ -24,9 +24,14 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Laravel') }}
-                </a>
+                 <!-- Aninjab -->
+                  <div class="col-md-8">
+                <div class="pull-left">
+                    <a href="/" style="text-decoration: none;"><h4><i class="fa fa-car"></i> AutoShop.uz <i class="fa fa-shopping-cart "></i></h4></a>
+                    
+                    <small> Please, be careful on the road!</small>
+                </div>
+            </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -71,5 +76,25 @@
             @yield('content')
         </main>
     </div>
+
+    <footer>
+    <div class="container">
+        <div class="row">
+        <div class="col-lg-10">
+                <div class="pull-left">
+                    <!--<img src="image/qul.png" class="img-responsive" alt="" style="width: 70px; height: 70px;">-->
+                </div>
+                <div class="pull-left speciall">
+                    <h3>AutoShop.uz<i class="fa fa-car"></i></h3>
+                    <small> Please, be careful on the road!</small>
+                    <hr>
+                    <p>Real Uzb Cars Zone - <i>Just make a Long Drift With us</i></p>
+                </div>
+            </div>
+        <div class="col-lg-2"><img src="image/test.png" width="150px" height="150px" style="margin-top: 1px;"/>
+        </div>
+    </div>
+    </div>
+</footer>
 </body>
 </html>
